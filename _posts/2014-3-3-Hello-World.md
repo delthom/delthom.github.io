@@ -6,6 +6,6 @@ title: Welcome to the EC site!
 Discover all the fonctionnality  
  (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 
 Blha blah some info . For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
