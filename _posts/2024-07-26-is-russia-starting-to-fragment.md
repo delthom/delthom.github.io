@@ -3,7 +3,7 @@ layout: post
 title: Is Russia Starting to Fragment?
 ---
 
-#Is Russia Starting to Fragment?
+## Is Russia Starting to Fragment?
 
 While looking at Telegram today, I came across this piece. It’s not the first; however, it does look like the old system of Druzhinia is back. What is this, you ask? In the medieval period, the nobles, the Boyars, were required to raise military units for the Tsar.
 
