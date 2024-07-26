@@ -3,7 +3,7 @@ layout: page
 title: CrowdStrike Exposes The True Cause Of The Worldwide IT Meltdown
 ---
 
-##What happens when redundancy and graceful degradation become an afterthought…
+## What happens when redundancy and graceful degradation become an afterthought…
 
 The very moment my parents bought me a computer, I wanted a second one. As a teenager, I couldn’t immediately afford it, but a couple of years later, as I upgraded to a newer machine, I kept the old one. I now had two machines and all was well with the world. This is a habit I kept all throughout my life. Ever since, I always had two machines, and at times even three. I am able to run on two internet connections, one fibre and another one 5G. That’s redundancy. Sure, the second machine is always a tad slower, and so is the backup network connection. That’s graceful degradation. The CrowdStrike update exposed both of these business and software engineering fail-safes lacking across the world, and it puts a faulty app (driver) update into a very different light.
 Microsoft Windows
@@ -78,9 +78,9 @@ But of course, we can’t just blame Microsoft for all of it. Impacted businesse
 
 IT systems of this magnitude should not be allowed to exist without built-in redundancies. It’s not enough to just have generators for electricity. Sure, that helps, but as we live in an increasingly digital world, that’s far from enough. Walking into a large hospital, seeing BSODs everywhere, is about as bad as it can get. In reality, the answers to some common what ifs should be this:
 
-**What if the power goes out? We switch to battery-power while generators kick in to replenish our power storage. 
-**What if the internet goes down? We switch to other fibre providers, followed by DSL or 5G providers. If none available, we switch to satellite communication. 
-**What if the OS crashes across the network? We reboot using an alternative OS. 
+** What if the power goes out? We switch to battery-power while generators kick in to replenish our power storage. 
+** What if the internet goes down? We switch to other fibre providers, followed by DSL or 5G providers. If none available, we switch to satellite communication. 
+** What if the OS crashes across the network? We reboot using an alternative OS. 
 
 These are the bare minimum answers I would expect. Clearly and sadly, we live in a world of IT infrastructure where none of this is a reality, my expectations seem to be out of sci-fi movies and the reasons are always the same — it costs too much — which brings me to my next point.
 A culture of cheap
@@ -91,7 +91,7 @@ Software is increasingly unreliable because it’s less and less a stand-alone e
 
 I remember when Progressive Web Apps (PWA) became the hot new kid on the block, everyone kept using graceful degradation like it was punctuation. It was the buzzword of buzzwords alongside “synergy” and “innovation” and the candidate that stood out at interviews was the one that didn’t bring up PWAs between saying “hello” and asking “how are you?” And yet, we find ourselves that same buzzword lost the buzz, even Apple showed it the middle-finger and there is barely any website out there that still loads something in offline mode.
 
-**We’re dealing with a debilitating culture of cheapness across the software development industry.
+** We’re dealing with a debilitating culture of cheapness across the software development industry.
 
 Agile was another great buzzword, but we made sure to hack Agile too into something it was never meant to be interpreted as — untested fast delivery. In fact, the whole concept of Agile was meant to enable pivoting fast, not building fast. It is undeniably cheaper to run an IT infrastructure without redundancy in mind if all you’re thinking of is the IT budget, but overall, how much cheaper is it really?
 
